@@ -71,7 +71,7 @@ This is a personal learning repository, but feel free to open an issue or sugges
 
 ## 📧 Contact
 
-Feel free to reach out via [GitHub Issues](https://github.com/yourusername/Data-Engineer-and-Big-Data/issues) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to reach out via [GitHub Issues](https://github.com/mdny98/Data-Engineer-and-Big-Data/issues) or connect with me on [LinkedIn](https://linkedin.com/in/mdny98).
 
 ---
 
@@ -79,7 +79,7 @@ Feel free to reach out via [GitHub Issues](https://github.com/yourusername/Data-
 
 Give it a ⭐️! It helps others find this content and keeps me motivated to keep improving it.
 
-```
+
 
 ---
 
