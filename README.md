@@ -43,16 +43,6 @@ Each project has its own folder under the `projects/` directory and contains:
 
 ---
 
-## 📝 Notes
-
-My learning notes are organized by topic in the `notes/` folder. These include:
-
-* Concepts and definitions
-* Tool-specific commands and examples
-* Common pitfalls and troubleshooting tips
-
----
-
 ## 📚 Resources
 
 A collection of books, courses, and articles that helped me learn:
@@ -81,7 +71,3 @@ Give it a ⭐️! It helps others find this content and keeps me motivated to ke
 
 
 
----
-
-Let me know if you'd like to include badges, GitHub stats, or visuals like architecture diagrams or a project showcase.
-```
