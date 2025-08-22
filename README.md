@@ -9,12 +9,9 @@ Welcome to my **Data Engineer and Big Data** repository! This space is dedicated
 
 ```bash
 .
-├── projects/         # End-to-end data engineering projects
-├── notes/            # Personal study notes on tools, concepts, and architectures
-├── resources/        # Curated links, books, and articles
-├── notebooks/        # Jupyter notebooks for experimentation
-└── README.md         # This file
-````
+├── Big-Data/         
+├── Data-Engineering/        
+└── README.md         ````
 
 ---
 
