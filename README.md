@@ -22,7 +22,6 @@ This repository covers (or will cover) topics including but not limited to:
 
 * **Big Data Frameworks:** Apache Hadoop, Apache Spark, Flink
 * **Data Pipelines:** ETL/ELT, Airflow, dbt, Kafka
-* **Cloud Platforms:** AWS (S3, EMR, Redshift), GCP (BigQuery, Dataflow), Azure
 * **Data Warehousing:** Snowflake, Redshift, BigQuery
 * **Databases:** PostgreSQL, MongoDB, Cassandra
 * **Streaming:** Kafka, Spark Streaming
